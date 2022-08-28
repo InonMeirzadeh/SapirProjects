@@ -1,8 +1,3 @@
-/*Inon Meirzadeh - 315858399
- * Tom Basha - 311425714
-*/
-
-
 import java.util.Scanner;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
