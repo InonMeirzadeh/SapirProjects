@@ -1,7 +1,3 @@
-# Assignment 1
-# Tom Basha - 311425714
-# Inon Meirzadeh - 315858399
-
 from gradientDescent import *
 
 alpha = 0.12760717777760003
