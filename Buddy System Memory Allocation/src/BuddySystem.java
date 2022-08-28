@@ -1,6 +1,3 @@
-/*Inon Meirzadeh - 315858399
- * Tom Basha - 311425714
- */
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
