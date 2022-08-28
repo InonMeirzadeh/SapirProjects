@@ -1,6 +1,3 @@
-/*Inon Meirzadeh - 315858399
- * Tom Basha - 311425714
-*/	
 		public class Process {
 			private int process_Number;
 			private int process_Size;
