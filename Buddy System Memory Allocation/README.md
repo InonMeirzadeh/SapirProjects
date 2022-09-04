@@ -1,1 +1,1 @@
-Implemention of a Buddy System Memory Allocation algoritem.
+Implementation of a Buddy System Memory Allocation algoritem.
